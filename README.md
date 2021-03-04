@@ -1,7 +1,7 @@
 # SorseleSwedenCemeteries
 
 ## Description
-A Python script for extracting data from the Sorsele-Måla, Västerbotten parish cemetery records that are hosted on [Gravar.se](http://gravar.se/en/forsamling/mala-sorsele-pastorat). The data are saved to .csv files in the /Indexes folder. This repository also includes a Jupyter Notebook for analyzing the data from a given cemetery.
+A Python script for extracting data from the Sorsele-Måla, Västerbotten parish cemetery records that are hosted on [Gravar.se](http://gravar.se/en/forsamling/mala-sorsele-pastorat). The raw, uncleaned data are saved to .csv files in the /Indexes folder. This repository also includes a Jupyter Notebook for analyzing the data from a given cemetery.
 
 Sorsele-Måla parish has eight cemeteries whose approximate locations (to the best of my knowledge) can be viewed on this [Google Earth map](https://earth.google.com/earth/d/1QPZnbVRg0kruSzYW14yilgplwl3TCC4i?usp=sharing):
 * Adak Kyrkogård
