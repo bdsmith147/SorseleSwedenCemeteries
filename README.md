@@ -25,6 +25,7 @@ Sorsele-Måla parish has eight cemeteries whose approximate locations (to the be
 
 
 ## Future ideas:
+- [ ] Use the FamilySearch API to check each name for a FS profile
 - [ ] Sorting within a block
 - [ ] Extract first/middle/last names. Consider:
   - [ ] Case insensitive
